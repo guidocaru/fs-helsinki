@@ -1,0 +1,6 @@
+title New note on SAP
+
+browser -> server: HTTP POST data.json
+server -> browser: Returns 201 (created)
+
+note left of browser: Content is created in the browser with JavaScript, based on the JSON file.
